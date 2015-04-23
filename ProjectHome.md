@@ -1,0 +1,1 @@
+GPL PHP Point of Sale
